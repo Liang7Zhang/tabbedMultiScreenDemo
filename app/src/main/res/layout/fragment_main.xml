@@ -19,4 +19,34 @@
         android:fontFamily="sans-serif-medium"
         android:textStyle="normal|italic" />
 
+    <TextView
+        android:id="@+id/section_label_two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:text="first label"
+        android:textSize="50sp"
+        android:gravity="center_vertical|center_horizontal"
+        android:textColor="#ffff0000"
+        android:fontFamily="sans-serif-medium"
+        android:textStyle="normal|italic" />
+
+    <TextView
+        android:id="@+id/section_label_three"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:text="third label"
+        android:textSize="50sp"
+        android:gravity="center_vertical|center_horizontal"
+        android:textColor="#ffff0000"
+        android:fontFamily="sans-serif-medium"
+        android:textStyle="normal|italic" />
+
 </RelativeLayout>
